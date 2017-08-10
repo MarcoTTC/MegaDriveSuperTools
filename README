@@ -1,0 +1,12 @@
+MegaDriveSuperTools is a Sega Mega Drive (known as Sega Genesis on US) homebrew
+development and modification toolkit created by
+Marco Túlio Todeschini Coelho (marco.tulio.todeschini.coelho@gmail.com)
+on 04/08/2017. It is a free software under GPL v3.0.
+
+Currently under development, more tools will be added later on.
+
+Tool listing:
+
+MegaDriveSuperPatcher - A IPS, and UPS format file patcher. Commonly used to distribute
+homebrew game file modifications on the internet, and to patch the same modifications to
+another game file.

@@ -1,0 +1,12 @@
+MegaDriveSuperPatcher is part of the MegaDriveSuperTools created by
+Marco Túlio Todeschini Coelho (marco.tulio.todeschini.coelho@gmail.com)
+on 04/08/2017. It is a free software under GPL v3.0 and it follows the specification
+at Zophar: https://zerosoft.zophar.net/ips.php
+
+Currently under development
+
+V0.1:
+
+Patching tool accepts patchs in IPS format, checks for some consistency and applies the patch.
+Currently, the patcher doesn't create IPS format patches yet. To be implemented later. It was
+tested only on Ubuntu 16.04 x64, support for other OS will be added later.
